@@ -9,9 +9,7 @@
 </div>
 
 # About the project
-This website was made with an intention to be a way to users download the windows/linux version of the app Mood-Fi.
-
-Check out <a href="https://moodfi-download.netlify.app/">the website and donwload now Mood-Fi.</a>
+This website was made with an intention to be a way to users download the windows/linux version of the app <a href="https://github.com/KaykyDeSouzaDias/Mood-Fi">Mood-Fi.</a>
 
 ![GIF-about-the-project](https://user-images.githubusercontent.com/59856984/160289459-40803332-37cd-4e57-bc11-bb231163fe9c.gif)
 
@@ -30,6 +28,26 @@ So, this layout was developed:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+### Responsivity
+
+![responsivity-mockup](https://user-images.githubusercontent.com/59856984/160292492-40625926-e2c2-4122-82e0-4c2ac3505354.jpg)
+
+# Development
+
+### Setup
+
+1. Clone the repo
+
+   ```sh
+   git clone https://github.com/KaykyDeSouzaDias/moodfi-website.git
+   ```
+
+2. Go to the project folder
+
+   ```sh
+   cd moodfi-website
+   ```
 
 # License
 
