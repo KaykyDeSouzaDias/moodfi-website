@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to Moodfi website</h1>
+<h1 align="center">Welcome to Mood-Fi website</h1>
 <p align="center">A website to download my App Mood-Fi</p>
 
 <div align="center">
-  <a href="https://github.com/KaykyDeSouzaDias/Mood-Fi/blob/master/LICENSE.rtf"><img src="https://img.shields.io/github/license/KaykyDeSouzaDias/moodfi-website?color=%23FFD201&label=License"></a>
+  <a href="https://github.com/KaykyDeSouzaDias/moodfi-website/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KaykyDeSouzaDias/moodfi-website?color=%23FFD201&label=License"></a>
   <img src="https://img.shields.io/github/stars/KaykyDeSouzaDias/moodfi-website?color=green&logo=GitHub">
   <br>
   <a href="https://moodfi-download.netlify.app/"><img src="https://img.shields.io/badge/Mood Fi website-Check out now!-%23FFD201"></a>
